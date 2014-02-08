@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mythical Settings</string>
-    <string name="title_generalui">General UI</string>
+    <string name="title_statusbar">Status Bar</string>
+
+    <!-- Statusbar: Double tap to sleep  -->
+    <string name="status_bar_double_tap_to_sleep_title">Double-tap to sleep</string>
 
     <!-- Share to clipboard -->
     <string name="clipboard_notification">Copied to clipboard</string>
     <string name="title_clipboard_share">Copy to clipboard</string>
+
 </resources>
