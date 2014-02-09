@@ -23,7 +23,7 @@
         </activity>
 
         <activity
-            android:name=".fragments.StatusBar"
+            android:name=".fragments.Statusbar"
             android:label="@string/title_statusbar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
