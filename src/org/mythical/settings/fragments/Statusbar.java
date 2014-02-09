@@ -11,7 +11,7 @@ import org.mythical.settings.R;
 
 public class Statusbar extends SettingsPreferenceFragment implements OnPreferenceChangeListener {
 
-    private static final String TAG = "Status Bar";
+    private static final String TAG = "Statusbar";
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
