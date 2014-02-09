@@ -56,8 +56,8 @@ public class CreateShortcut extends LauncherActivity {
     private int getProperShortcutIcon(String className) {
         String c = className.substring(className.lastIndexOf(".") + 1);
 
-        if (c.equals("GeneralUI"))
-            return R.drawable.ic_settings_generalui;
+        if (c.equals("Statusbar"))
+            return R.drawable.ic_settings_statusbar;
         else
             return R.drawable.ic_launcher;
     }
