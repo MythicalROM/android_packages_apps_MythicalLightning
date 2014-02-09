@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
-    <CheckBoxPreference
+
+    <org.mythical.settings.fragments.SystemSettingCheckBoxPreference
         android:key="double_tap_sleep_gesture"
         android:title="@string/status_bar_double_tap_to_sleep_title"
         android:defaultValue="false" />
+
 </PreferenceScreen>
