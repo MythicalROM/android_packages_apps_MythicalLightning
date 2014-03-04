@@ -4,4 +4,9 @@
       android:fragment="org.mythical.settings.fragments.Statusbar"
       android:title="@string/title_statusbar"
       android:icon="@drawable/ic_settings_statusbar" />
+
+    <header
+      android:id="@+id/ProgressBar"
+      android:fragment="org.mythical.settings.fragments.ProgressBar"
+      android:title="@string/progressbar_title" />
 </preference-headers>
